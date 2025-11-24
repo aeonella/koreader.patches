@@ -17,7 +17,7 @@ Replacement icons that work with SeriousHornet's [Visual Overhaul Suite](https:/
 
 ## 🞂  [2-browser-folder-cover-3x3.lua](https://github.com/aeonella/KOReader.patches/blob/main/2-browser-folder-cover-3x3.lua)
 
-A very forced folder cover patch that will also round out the corners. Made specically for the Bigme B6, but may work on other devices. Still a WIP.
+A very forced folder cover patch that will also round out the corners and remove auto-capitalization of the folder names. Made specically for the Bigme B6, but may work on other devices. Still a WIP.
 
 Tweaked verison of angelsangita's [2-browser-folder-cover.lua](https://github.com/angelsangita/Koreader-Patches/blob/main/2-browser-folder-cover.lua). Had issues on the Bigme B6 with the folders being larger than the regular book covers, 
 this version will make them the same size when using project titles's 3x3 grid. In the 4x3 grid the folders are the same size but are not centered vertically with book covers on the same row. Working solutions for this.
